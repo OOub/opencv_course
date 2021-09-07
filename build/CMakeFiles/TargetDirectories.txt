@@ -1,0 +1,13 @@
+/Users/omaroubari/repositories/opencvcourse/build/CMakeFiles/ALL_BUILD.dir
+/Users/omaroubari/repositories/opencvcourse/build/CMakeFiles/ZERO_CHECK.dir
+/Users/omaroubari/repositories/opencvcourse/build/applications/CMakeFiles/license_plate_detector.dir
+/Users/omaroubari/repositories/opencvcourse/build/applications/CMakeFiles/7_shapes_contours.dir
+/Users/omaroubari/repositories/opencvcourse/build/applications/CMakeFiles/document_scanner.dir
+/Users/omaroubari/repositories/opencvcourse/build/applications/CMakeFiles/8_face_detection.dir
+/Users/omaroubari/repositories/opencvcourse/build/applications/CMakeFiles/6_color_detection.dir
+/Users/omaroubari/repositories/opencvcourse/build/applications/CMakeFiles/5_warp.dir
+/Users/omaroubari/repositories/opencvcourse/build/applications/CMakeFiles/virtual_painter.dir
+/Users/omaroubari/repositories/opencvcourse/build/applications/CMakeFiles/4_drawing.dir
+/Users/omaroubari/repositories/opencvcourse/build/applications/CMakeFiles/3_resize_crop.dir
+/Users/omaroubari/repositories/opencvcourse/build/applications/CMakeFiles/2_image_basics.dir
+/Users/omaroubari/repositories/opencvcourse/build/applications/CMakeFiles/1_import_images.dir
