@@ -1,4 +1,0 @@
-Target dependency graph (2 targets)
-ZERO_CHECK in opencvcourse
-chapter3 in opencvcourse, depends on:
-ZERO_CHECK in opencvcourse (explicit)
